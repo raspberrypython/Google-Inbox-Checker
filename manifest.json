@@ -1,5 +1,5 @@
 {
-   "author": "Jason Ng",
+   "author": "David Noyes",
    "background": {
       "page": "background.html",
       "persistent": false
@@ -15,7 +15,7 @@
       "128": "icon_128.png"
    },
    "manifest_version": 2,
-   "name": "Google Inbox Checker (Inbox by Gmail)",
+   "name": "Google Inbox Checker",
    "permissions": [ "alarms", "tabs", "webNavigation", "*://*.google.com/" ],
-   "version": "1.0.1"
+   "version": "1.0.0"
 }
